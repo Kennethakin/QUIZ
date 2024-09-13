@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kennethakin/QUIZ/static/css/main.58fd3505.css",
+    "main.js": "/Kennethakin/QUIZ/static/js/main.20e4f91d.js",
+    "static/js/453.dd9a42ed.chunk.js": "/Kennethakin/QUIZ/static/js/453.dd9a42ed.chunk.js",
+    "index.html": "/Kennethakin/QUIZ/index.html",
+    "main.58fd3505.css.map": "/Kennethakin/QUIZ/static/css/main.58fd3505.css.map",
+    "main.20e4f91d.js.map": "/Kennethakin/QUIZ/static/js/main.20e4f91d.js.map",
+    "453.dd9a42ed.chunk.js.map": "/Kennethakin/QUIZ/static/js/453.dd9a42ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58fd3505.css",
+    "static/js/main.20e4f91d.js"
+  ]
+}
